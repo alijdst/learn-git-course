@@ -1,7 +1,6 @@
 hello - vscode
-how are you
+how are you?
+
 where are you from? -- vscode
 come on -- vscode
-my name is Ali -- (from pycharm)
-how old are you man? -- (from pycharm)
-I'm from iran -- (from pycharm)
+how old are you? -- (pycharm)
