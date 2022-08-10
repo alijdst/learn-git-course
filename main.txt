@@ -9,8 +9,9 @@ how old are you? -- (pycharm)
 end
 hello again I'm here
 salam
+<<<<<<< HEAD
+=======
 khubi?
 kojayi??
 ***(edited)
-EXIT
-
+>>>>>>> b68dfba (***(edited) main.txt)
