@@ -12,6 +12,6 @@ salam
 khubi?
 kojayi??
 ***(edited)
+<<<<<<< HEAD
 7
 100
-
