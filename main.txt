@@ -9,8 +9,14 @@ how old are you? -- (pycharm)
 end
 hello again I'm here
 salam
+<<<<<<< HEAD
+=======
 khubi?
 kojayi??
 ***(edited)
+<<<<<<< HEAD
 7
 100
+=======
+>>>>>>> b68dfba (***(edited) main.txt)
+>>>>>>> parent of fbaabfe (7 added to main.txt)
